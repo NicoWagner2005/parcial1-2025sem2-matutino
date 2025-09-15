@@ -101,7 +101,7 @@ async function promote(user) {
     }
 }
 
-// Eliminar tarea - DELETE
+
 async function deleteUser(id, li) {
     try {
         const response = await fetch(`${API_URL}/${id}`, { method: 'DELETE' })
