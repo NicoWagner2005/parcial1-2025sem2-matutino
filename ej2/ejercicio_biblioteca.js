@@ -34,7 +34,7 @@ const biblioteca = { ...bibliotecaData };
  * @return {boolean|string} - true si se realizó el préstamo, mensaje de error si no
  */
 function prestarLibro(idLibro, idEstudiante, fechaPrestamo) {
-  // Tu código aquí
+  
 }
 
 
